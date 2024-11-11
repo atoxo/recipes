@@ -1,8 +1,7 @@
-
 # Guacamole
 ## Ingredients
 * avocado
-* limes
-* garlic
+* lime
 * salt
 ## Instructions
+* put one avocado into a bowl.
